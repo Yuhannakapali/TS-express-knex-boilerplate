@@ -1,0 +1,3 @@
+node_modules
+/db/.env.db
+.env
